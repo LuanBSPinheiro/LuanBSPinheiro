@@ -1,8 +1,8 @@
 - 👋 Oi, eu sou o @LuanBSPinheiro
-- 👀 Eu estou interessado em programação Kotlin e Android!
+- 👀 Sou desenvolvedor Android na Popcode
 - 🌱 Atualmente estou aprendendo Modularização.
-- 💞️ Estou procurando colaborar em projetos de android e kotlin para ajudar a crescer tanto o projeto quanto meu perfil profissional!
-- 📫 Você pode me contatar através do LinkedInd (linkedin.com/in/luanbspinheiro ou através do telegram @skzera
+- 💞️ Me arrisco a errar onde ninguém jamais errou!
+- 📫 Você pode me contatar através do LinkedInd (linkedin.com/in/luanbspinheiro ou através do e-mail luanspinheiro@gmail.com
 
 <!---
 LuanBSPinheiro/LuanBSPinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
