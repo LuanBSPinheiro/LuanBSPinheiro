@@ -2,7 +2,7 @@
 - 👀 Sou desenvolvedor Android na Popcode
 - 🌱 Atualmente estou aprendendo Modularização.
 - 💞️ Me arrisco a errar onde ninguém jamais errou!
-- 📫 Você pode me contatar através do LinkedInd (linkedin.com/in/luanbspinheiro ou através do e-mail luanspinheiro@gmail.com
+- 📫 Você pode me contatar através do LinkedIn (linkedin.com/in/luanbspinheiro ou através do e-mail luanspinheiro@gmail.com
 
 <!---
 LuanBSPinheiro/LuanBSPinheiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
