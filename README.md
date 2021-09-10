@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou o @LuanBSPinheiro
-- 👀 Sou desenvolvedor Android na Popcode
+- 👀 Sou desenvolvedor Android em busca de um ambiente de trabalho!
 - 🌱 Atualmente estou aprendendo Modularização.
 - 💞️ Me arrisco a errar onde ninguém jamais errou!
 - 📫 Você pode me contatar através do LinkedIn (linkedin.com/in/luanbspinheiro ou através do e-mail luanspinheiro@gmail.com
