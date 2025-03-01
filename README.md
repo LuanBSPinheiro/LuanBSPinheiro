@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o @LuanBSPinheiro
 - 👀 Sou desenvolvedor Android procurando sempre aprender mais!
-- 🌱 Atualmente estou aprendendo Jetpack Composure.
+- 🌱 Atualmente estou aprendendo Jetpack Compose.
 - 💞️ Me arrisco a errar onde ninguém jamais errou!
 ##
  <div>
